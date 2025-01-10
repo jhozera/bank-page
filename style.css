@@ -321,9 +321,37 @@ h4{
 
    
     h1{
-        margin: 30px;
-        padding: 30px;
+        font-size: 35px;
     }
+
+    h1 span{
+        font-size: 35px;
+
+    }
+
+   h2{
+    font-size: 35px;
+    padding: 10px;
+
+   }
+
+   h3{
+    font-size: 35px;
+    padding: 10px;
+
+
+   }
+
+   h2 span{
+    font-size: 20px;
+
+   }
+
+   h4{
+    font-size: 35px;
+
+   }
+
 
 
   }
@@ -357,9 +385,36 @@ h4{
 
     
      h1{
-        margin: 30px;
-        padding: 30px;
+        font-size: 35px;
     }
+
+    h1 span{
+        font-size: 35px;
+
+    }
+
+   h2{
+    font-size: 35px;
+    padding: 10px;
+
+   }
+
+   h3{
+    font-size: 35px;
+    padding: 10px;
+
+
+   }
+
+   h2 span{
+    font-size: 20px;
+
+   }
+
+   h4{
+    font-size: 35px;
+
+   }
 
 
 
